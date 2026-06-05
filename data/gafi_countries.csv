@@ -1,1 +1,26 @@
-
+country,status,category
+Democratic Republic of Korea,BLACKLIST,High-Risk Jurisdiction subject to a Call for Action
+Iran,BLACKLIST,High-Risk Jurisdiction subject to a Call for Action
+Myanmar,BLACKLIST,High-Risk Jurisdiction subject to a Call for Action
+Algeria,GREYLIST,Jurisdiction under Increased Monitoring
+Angola,GREYLIST,Jurisdiction under Increased Monitoring
+Bolivia,GREYLIST,Jurisdiction under Increased Monitoring
+Bulgaria,GREYLIST,Jurisdiction under Increased Monitoring
+Cameroon,GREYLIST,Jurisdiction under Increased Monitoring
+Côte d'Ivoire,GREYLIST,Jurisdiction under Increased Monitoring
+Democratic Republic of the Congo,GREYLIST,Jurisdiction under Increased Monitoring
+Haiti,GREYLIST,Jurisdiction under Increased Monitoring
+Kenya,GREYLIST,Jurisdiction under Increased Monitoring
+Kuwait,GREYLIST,Jurisdiction under Increased Monitoring
+Lao PDR,GREYLIST,Jurisdiction under Increased Monitoring
+Lebanon,GREYLIST,Jurisdiction under Increased Monitoring
+Monaco,GREYLIST,Jurisdiction under Increased Monitoring
+Namibia,GREYLIST,Jurisdiction under Increased Monitoring
+Nepal,GREYLIST,Jurisdiction under Increased Monitoring
+Papua New Guinea,GREYLIST,Jurisdiction under Increased Monitoring
+South Sudan,GREYLIST,Jurisdiction under Increased Monitoring
+Syria,GREYLIST,Jurisdiction under Increased Monitoring
+Venezuela,GREYLIST,Jurisdiction under Increased Monitoring
+Vietnam,GREYLIST,Jurisdiction under Increased Monitoring
+Virgin Islands (UK),GREYLIST,Jurisdiction under Increased Monitoring
+Yemen,GREYLIST,Jurisdiction under Increased Monitoring
